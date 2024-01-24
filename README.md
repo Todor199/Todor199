@@ -1,6 +1,6 @@
 #### Hola Mundo! Hi there 👋
 
-[Curriculum](Todor199.github.io)
+[Todor199.github.io](https://todor199.github.io/CV_Todor_Petrov.pdf)
 **Todor199/Todor199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
